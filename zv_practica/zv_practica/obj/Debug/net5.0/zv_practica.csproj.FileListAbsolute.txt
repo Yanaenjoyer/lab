@@ -1,0 +1,7 @@
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.AssemblyInfo.cs
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Максим\Desktop\zv_practica\zv_practica\obj\Debug\net5.0\zv_practica.MvcApplicationPartsAssemblyInfo.cache

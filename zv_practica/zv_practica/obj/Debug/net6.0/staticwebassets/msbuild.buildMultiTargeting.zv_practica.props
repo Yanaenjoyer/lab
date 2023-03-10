@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\zv_practica.props" />
+</Project>
